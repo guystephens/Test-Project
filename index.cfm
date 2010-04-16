@@ -1,3 +1,4 @@
+<!--- THIS IS A NEW COMMENT --->
 <cfsilent>
 <!---
 	If you want to implement a sub-application configuration,
